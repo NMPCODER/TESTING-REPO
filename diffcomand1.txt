@@ -1,0 +1,1 @@
+this is the file to determine the purpose of the command "git diff --staged". 
